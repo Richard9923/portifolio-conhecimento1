@@ -96,8 +96,7 @@ body {
 
 .conteudo__apresentacao__imagens {
     display: flex;
-    justify-content: center;
-    gap: 40px;
+    justify-content: space-evenly;
     margin: 7% 0%;
 }
 
