@@ -17,13 +17,13 @@ body {
 
 .header__aba {
     display: flex;
-    justify-content: space-between;
-    
+    justify-content: center;   
+    gap: 100px;
 }
 
 .header__aba__link {
     color: white;
-
+    font-size: 1rem;
 }
 
 .header__aba__link:hover {
