@@ -56,7 +56,7 @@ body {
 }
 
 .main {
-    margin: 10% 20%;
+    margin: 10% 19%;
 }
 
 .conteudo__apresentacao {
@@ -84,8 +84,13 @@ body {
     width: 40%;
 }
 
-.conteudo__segundaParte {
+.conteudo__segunda__parte {
     margin: 10% 0%;
+}
+
+.conteudo__apresentacao__div {
+    text-align: center;
+
 }
 
 .imagem__hobbies {
