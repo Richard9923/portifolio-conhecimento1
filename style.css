@@ -39,8 +39,8 @@ body {
 
 .header__aba {
     display: flex;
-    justify-content: center;   
-    gap: 100px;
+    margin-left: 12%;  
+    gap: 50px;
 }
 
 .header__aba__link {
