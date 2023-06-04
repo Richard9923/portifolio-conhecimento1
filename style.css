@@ -1,5 +1,32 @@
 * {
     margin: 0px;
     padding: 0px;
+    text-decoration: none;
+
 }
 
+body {
+    min-height: 100vh;
+}
+
+.header {
+    background-color: black;
+    padding: 1% 20% ;
+    
+}
+
+.header__aba {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header__aba__link {
+    color: white;
+
+}
+
+.header__aba__link:hover {
+    color: rgb(11, 169, 184);
+    transition-duration: 0.4s;
+}
