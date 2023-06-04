@@ -30,3 +30,7 @@ body {
     color: rgb(11, 169, 184);
     transition-duration: 0.4s;
 }
+
+.main {
+    margin: 10% 20%;  
+}
