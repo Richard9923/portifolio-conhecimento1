@@ -32,5 +32,17 @@ body {
 }
 
 .main {
-    margin: 10% 20%;  
+    margin: 10% 20%;
+}
+
+.conteudo__apresentacao {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    
+
+}
+
+.imagem__computador {
+    width: 30%;
 }
