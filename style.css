@@ -10,7 +10,7 @@
 :root {
     
     --cor_principal: #98EECC;
-    --cor_secundaria: blue;
+    --cor_secundaria: #79E0EE;
     --cor_tercearia: green;
     --cor__fonte: black;
 
@@ -24,6 +24,10 @@ body {
     min-height: 100vh;
     box-sizing: border-box;
     background-color: var(--cor__white)
+}
+
+.sublinhado {
+    color: var(--cor_tercearia);
 }
 
 .header {
@@ -46,7 +50,7 @@ body {
 }
 
 .header__aba__link:hover {
-    color: var(--cor_secundaria);
+    color: var(--cor_tercearia);
     transition-duration: 0.4s;
     
 }
