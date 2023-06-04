@@ -86,11 +86,17 @@ body {
 
 .conteudo__segunda__parte {
     margin: 10% 0%;
+
 }
 
 .conteudo__apresentacao__div {
     text-align: center;
 
+}
+
+.conteudo__apresentacao__imagens {
+    display: flex;
+    justify-content: center;
 }
 
 .imagem__hobbies {
