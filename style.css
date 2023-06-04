@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    text-decoration: none;
+    text-decoration: none
 
 }
 
@@ -103,4 +103,26 @@ body {
 
 .imagem__hobbies {
     width: 20%;
+}
+
+.conteudo__terceira__parte {
+    margin: 15% 0%;
+}
+
+.conteudo__terceira__parte__texto {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    }
+
+
+.conteudo__apresentacao__icones {
+    margin: 9% 0%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagem__icones {
+    width: 10%;
 }
