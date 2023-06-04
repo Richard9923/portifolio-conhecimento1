@@ -97,8 +97,10 @@ body {
 .conteudo__apresentacao__imagens {
     display: flex;
     justify-content: center;
+    gap: 40px;
+    margin: 7% 0%;
 }
 
 .imagem__hobbies {
-    width: 30%;
+    width: 20%;
 }
